@@ -11,6 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "owner": "ccaio-oliveira",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
